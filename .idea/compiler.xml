@@ -13,13 +13,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="feign-demo" target="1.6" />
-      <module name="restful-consumer" target="1.6" />
-      <module name="restful-consumer-api-definition" target="1.6" />
-      <module name="restful-consumer-app" target="1.6" />
-      <module name="restful-provider" target="1.6" />
-      <module name="restful-provider-api-definition" target="1.6" />
-      <module name="restful-provider-app" target="1.6" />
+      <module name="feign-demo" target="1.8" />
+      <module name="restful-consumer" target="1.8" />
+      <module name="restful-consumer-api-definition" target="1.8" />
+      <module name="restful-consumer-app" target="1.8" />
+      <module name="restful-provider" target="1.8" />
+      <module name="restful-provider-api-definition" target="1.8" />
+      <module name="restful-provider-app" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

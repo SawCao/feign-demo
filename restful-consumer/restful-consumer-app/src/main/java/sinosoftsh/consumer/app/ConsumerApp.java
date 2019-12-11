@@ -2,7 +2,8 @@ package sinosoftsh.consumer.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.feign.EnableFeignClients;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+
 
 /**
  * Created by xujingfeng on 2017/8/3.
