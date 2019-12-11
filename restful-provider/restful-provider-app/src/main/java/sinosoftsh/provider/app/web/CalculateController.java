@@ -8,9 +8,7 @@ import sinosoftsh.provider.api.CalculateApi;
 
 import java.math.BigDecimal;
 
-/**
- * Created by xujingfeng on 2017/8/3.
- */
+
 @RestController
 @RequestMapping("/api")
 public class CalculateController implements CalculateApi{
